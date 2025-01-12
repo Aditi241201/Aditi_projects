@@ -1,4 +1,4 @@
-# Analyzed Diwali sales data using python
+# Diwali Sales Analysis
 <br>
 Utilized Pandas for data manipulation and Matplotlib for data visualization.
 <br>
